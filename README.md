@@ -1,4 +1,4 @@
-#This project is a part of my Internship at Digit(India's No.1 Technology Magazine) and will be an integral part of digit.in which has approximately 20 million visitors/month.
+# This project is a part of my Internship at Digit(India's No.1 Technology Magazine) and will be an integral part of digit.in which has approximately 20 million visitors/month.
 
 The aim of this project is to facilitate sellers visiting ‘digit.in’ to add information of their products that they wish to sell via ‘digit.in’. The seller gets his own dashboard fully loaded with features. Some of the features in are listed as below : 
 
